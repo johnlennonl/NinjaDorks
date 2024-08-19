@@ -1,0 +1,52 @@
+[
+    {
+        "title": "http://web.mit.edu/scripts/deploy/textpattern.sql",
+        "description": "-- MySQL dump 10.9 -- -- Host: sql.mit.edu Database: presbrey+scriptstp ... password will be e-mailed','2005-07-06 13:39:09'),(58,'en-us','bad_cookie ...",
+        "link": "http://web.mit.edu/scripts/deploy/textpattern.sql"
+    },
+    {
+        "title": "https://open.catalyst.harvard.edu/stash/projects/H...",
+        "description": "... MySQL dump 10.13 Distrib 5.6.14, for osx10.7 (x86_64) -- -- Host: 127.0.0.1 ... password` varchar(255) DEFAULT NULL, `primary_phone` varchar(255) ...",
+        "link": "https://open.catalyst.harvard.edu/stash/projects/HCCRCSCHEDULER/repos/scheduler/raw/data/src/main/sql/base.sql?at=2b1d1a14faed09ca3956eb562b2ba453c5547d9a"
+    },
+    {
+        "title": "http://ultimorender.com.ar/chute/shoping/shopping.sql",
+        "description": "# phpMyAdmin MySQL-Dump # version 2.3.3pl1 # http://www.phpmyadmin.net ... Password varchar(255) NOT NULL default '', Name varchar(255) NOT NULL ...",
+        "link": "http://ultimorender.com.ar/chute/shoping/shopping.sql"
+    },
+    {
+        "title": "http://41.73.116.156/home/somaho/soma.sql",
+        "description": "-- MySQL dump 10.11 -- -- Host: localhost Database: somaho ... password from the old site)</li> <p><u><br /></u></p></div>',-2,3,0,28,'2008-07-30 20:27 ...",
+        "link": "http://41.73.116.156/home/somaho/soma.sql"
+    },
+    {
+        "title": "http://www.sante.gov.ml/docs/basevida/mysqlbase.sql",
+        "description": "... MySQL dump 10.13 Distrib 5.6.13, for Win32 (x86) -- -- Host: 127.0.0.1 ... PASSWORD'),(359,'OFFSET'),(360,'CHAR'),(361,'NEXT'),(362,'SQL_LOG_BIN'),(363 ...",
+        "link": "http://www.sante.gov.ml/docs/basevida/mysqlbase.sql"
+    },
+    {
+        "title": "https://wikileaks.org/spyfiles4/sql/finfisher.sql",
+        "description": "-- MySQL dump 10.13 Distrib 5.1.73, for debian-linux-gnu (i486) -- -- Host ... Password` varchar(32) DEFAULT NULL COMMENT 'Alphanumeric string of 8 ...",
+        "link": "https://wikileaks.org/spyfiles4/sql/finfisher.sql"
+    },
+    {
+        "title": "database-schema-examples/mysql/magento/schema.sql at main ...",
+        "description": "... Password Id', `user_id` int(10) unsigned NOT NULL DEFAULT '0' COMMENT ... MySQL dump 10.13 Distrib 5.7.27, for Win64 (x86_64). --. -- Host: all-prisma ...",
+        "link": "https://github.com/prisma/database-schema-examples/blob/main/mysql/magento/schema.sql"
+    },
+    {
+        "title": "https://www.frostyfactory.club/blog-caraway-branch.sql",
+        "description": "-- MySQL dump 10.11 -- -- Host: localhost Database: blog-caraway-branch ... Pass through the two intersections <br /> Shortly after the Broad St. and ...",
+        "link": "https://www.frostyfactory.club/blog-caraway-branch.sql"
+    },
+    {
+        "title": "mySQL/all_db_backup.sql at master · andalike/mySQL · GitHub",
+        "description": "... MySQL dump 10.13 Distrib 5.7.24, for Linux (x86_64) -- -- Host: localhost ... PASSWORD'),(121,'PATH)'),(255,'PLUGIN'),(653,'PLUGINS'),(267,'PLUGIN_DIR ...",
+        "link": "https://github.com/andalike/mySQL/blob/master/all_db_backup.sql"
+    },
+    {
+        "title": "smid_stage_area.sql in intercambio/BD – Mapa Industrial ...",
+        "description": "Line. 1, -- MySQL dump 10.13 Distrib 5.5.31, for debian-linux-gnu (x86_64). 2, --. 3, -- Host: localhost Database: stage_area.",
+        "link": "https://mpv.cenditel.gob.ve/intercambio/browser/intercambio/BD/smid_stage_area.sql?rev=3d73865b3fbbd4a37d36e3ca93c50856af0f6449"
+    }
+]
