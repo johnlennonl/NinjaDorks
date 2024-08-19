@@ -2,3 +2,5 @@ requests
 python-dotenv
 rich
 gpt4all
+
+probando
